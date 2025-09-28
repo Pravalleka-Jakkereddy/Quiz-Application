@@ -1,2 +1,2 @@
 # Quiz-Application
-REST APIs for quiz creation, user registration, and results 
+REST APIs for quiz creation, user registration, and results.
