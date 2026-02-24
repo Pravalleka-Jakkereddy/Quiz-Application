@@ -1,1 +1,1 @@
-This is a Quiz Application built using a RESTful API architecture. The application allows users to take quizzes, view questions, submit answers, and receive scores. It is designed to be scalable, easy to maintain, and suitable for integration with web or mobile frontends.
+This is a Quiz Application built using a RESTful API architecture. The application allows users to take quizzes, view questions, submit answers, and receive scores.
