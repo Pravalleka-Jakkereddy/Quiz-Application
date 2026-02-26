@@ -1,1 +1,1 @@
-This is a Quiz Application built using a RESTful API architecture. The application allows users to take quizzes, view questions, submit answers, and receive scores.
+Developed a Quiz Application using Spring Boot, Java, MySQL, HTML, CSS, and JavaScript based on RESTful architecture. The system enables users to select quiz categories, attempt customized quizzes, and receive automated scoring through dynamic API integration. Implemented backend services with JPA/Hibernate and interactive frontend interfaces for seamless user experience.
